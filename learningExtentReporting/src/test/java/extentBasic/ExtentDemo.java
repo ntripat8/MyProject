@@ -25,6 +25,7 @@ public class ExtentDemo {
 		extent.attachReporter(reporter);
 		extent.setSystemInfo("Tester", "Nilesh Tripathi");
 		System.out.println("GIT Changes");
+		System.out.println("GIT Changes Second");
 	}
 	
 	@Test
