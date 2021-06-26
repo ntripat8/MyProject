@@ -26,6 +26,11 @@ public class ExtentDemo {
 		extent.setSystemInfo("Tester", "Nilesh Tripathi");
 		System.out.println("GIT Changes");
 		System.out.println("GIT Changes Second");
+		
+		System.out.println("GIT Changes develop");
+		System.out.println("GIT Changes develop1");
+		System.out.println("GIT Changes develop2");
+		System.out.println("GIT Changes develop3");
 	}
 	
 	@Test
