@@ -31,6 +31,8 @@ public class ExtentDemo {
 		System.out.println("GIT Changes develop1");
 		System.out.println("GIT Changes develop2");
 		System.out.println("GIT Changes develop3");
+		
+		System.out.println("GIT Changes develop4 - US folk");
 	}
 	
 	@Test
